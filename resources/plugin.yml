@@ -1,0 +1,6 @@
+name: AuthUI-NK
+main: iR.yzplug.authui.Main
+version: 1.0.0
+api: 1.0.0
+author: YazdanPlug
+description: Simple UI plugin for AdvancedAuth in Nukkit
